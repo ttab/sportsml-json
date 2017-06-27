@@ -1,0 +1,21 @@
+{
+  "name": "sportsml-json",
+  "version": "0.0.1",
+  "description": "Serializer between SportsML and JSON",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ttab/sportsml-json.git"
+  },
+  "author": "Martin Algesten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ttab/sportsml-json/issues"
+  },
+  "homepage": "https://github.com/ttab/sportsml-json#readme",
+  "dependencies": {
+    "zu": "^1.0.2"
+  }
+}
