@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sports-content xmlns="http://iptc.org/std/nar/2006-10-01/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ ../../../../GIT_IPTC/sportsml-3/3.0/specification/sportsml.xsd">
+   <sports-metadata doc-id="20170528:TT:0013:0">
+      <sports-content-codes>
+         <sports-content-code code-type="spct:sport"
+                              code-key="medtop:20001011"
+                              code-name="orientering"/>
+         <sports-content-code code-type="spct:competition" code-name="Världscupen"/>
+      </sports-content-codes>
+      <sports-property formal-name="location" value="ÅBO, Finland"/>
+      <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_27.xml"/>
+      <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-Sports_1.xml"/>
+      <catalogRef href="http://tt.se/spec/catalog/catalog.tt-g2.1_0.xml"/>
+   </sports-metadata>
+   
+   <sports-event>
+      <event-metadata distance="15,3">
+         <sports-content-codes>
+            <sports-content-code code-type="subj:qual">
+               <sports-content-qualifier gender="male" participant-count="spparticipantcount:individual"/>
+            </sports-content-code>
+         </sports-content-codes>
+         <name>herrar, långdistans (15,3 km)</name>
+         <site><site-metadata nationality="Finland"><name>Åbo</name></site-metadata></site>
+      </event-metadata>
+      <player>
+         <player-metadata nationality="Norge">
+            <name>Magne Dæhli</name>
+         </player-metadata>
+         <player-stats score="1.30.03">
+            <rank value="1"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="Sverige">
+            <name>William Lind</name>
+         </player-metadata>
+         <player-stats score="1.30.05">
+            <rank value="2"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="Sverige">
+            <name>Emil Svensk</name>
+         </player-metadata>
+         <player-stats score="1.30.08">
+            <rank value="3"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="Sverige">
+            <name>Johan Runesson</name>
+         </player-metadata>
+         <player-stats score="1.30.37">
+            <rank value="6"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="Sverige">
+            <name>Martin Regborn</name>
+         </player-metadata>
+         <player-stats score="1.30.47">
+            <rank value="8"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="Sverige">
+            <name>Albin Ridefelt</name>
+         </player-metadata>
+         <player-stats score="1.32.59">
+            <rank value="9"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="Sverige">
+            <name>Oskar Sjöberg</name>
+         </player-metadata>
+         <player-stats score="1.33.00">
+            <rank value="10"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="Sverige">
+            <name>Gustav Bergman</name>
+         </player-metadata>
+         <player-stats score="1.36.23">
+            <rank value="15"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="Sverige">
+            <name>Jonas Leandersson</name>
+         </player-metadata>
+         <player-stats score="1.38.08">
+            <rank value="22"/>
+         </player-stats>
+      </player>
+   </sports-event>
+   <sports-event>
+      <event-metadata distance="11,1">
+         <sports-content-codes>
+            <sports-content-code code-type="subj:qual">
+               <sports-content-qualifier gender="female" participant-count="spparticipantcount:individual"/>
+            </sports-content-code>
+         </sports-content-codes>
+         <name>Damer, långdistans (11,1 km)</name>
+         <site><site-metadata nationality="Finland"><name>Åbo</name></site-metadata></site>
+      </event-metadata>
+      <player>
+         <player-metadata nationality="Sverige">
+            <name>Tove Alexandersson</name>
+         </player-metadata>
+         <player-stats score="1.17.27">
+            <rank value="1"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="Sverige">
+            <name>Helena Jansson</name>
+         </player-metadata>
+         <player-stats score="1.17.54">
+            <rank value="2"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="Danmark">
+            <name>Maja Alm</name>
+         </player-metadata>
+         <player-stats score="1.17.58">
+            <rank value="3"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="Sverige">
+            <name>Emma Johansson</name>
+         </player-metadata>
+         <player-stats score="1.22.45">
+            <rank value="6"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="Sverige">
+            <name>Alva Olsson</name>
+         </player-metadata>
+         <player-stats score="1.23.51">
+            <rank value="9"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="Sverige">
+            <name>Karolin Ohlsson</name>
+         </player-metadata>
+         <player-stats score="1.24.32">
+            <rank value="15"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="Sverige">
+            <name>Lina Strand</name>
+         </player-metadata>
+         <player-stats score="1.24.52">
+            <rank value="18"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="Sverige">
+            <name>Lilian Forsgren</name>
+         </player-metadata>
+         <player-stats score="1.31.06">
+            <rank value="22"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="Sverige">
+            <name>Josefin Tjernlund</name>
+         </player-metadata>
+         <player-stats score="1.34.13">
+            <rank value="27"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="Sverige">
+            <name>Sara Hagström</name>
+         </player-metadata>
+         <player-stats score="1.36.46">
+            <rank value="33"/>
+         </player-stats>
+      </player>
+   </sports-event>
+</sports-content>

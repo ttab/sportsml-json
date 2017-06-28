@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sports-content xmlns="http://iptc.org/std/nar/2006-10-01/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ ../../../../GIT_IPTC/sportsml-3/3.0/specification/sportsml.xsd">
+   <sports-metadata competition="tt:5841" doc-id="20170529:TT:0035:0">
+      <sports-content-codes>
+         <sports-content-code code-type="spct:sport"
+                              code-key="medtop:20001065"
+                              code-name="Fotboll"/>
+         <sports-content-code code-type="spct:competition"
+                              code-key="tt:5841"
+                              code-name="Allsvenskan"/>
+         <sports-content-code code-type="spct:season" code-key="season:55" code-name="2017"/>
+      </sports-content-codes>
+      <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_27.xml"/>
+      <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-Sports_1.xml"/>
+      <catalogRef href="http://tt.se/spec/catalog/catalog.tt-g2.1_0.xml"/>
+   </sports-metadata>
+   <sports-event>
+      <event-metadata key="tt:FF3491032"
+                      event-status="speventstatus:post-event"
+                      event-outcome-type="speventoutcometype:regular"
+                      start-date-time="2017-05-29"
+                      competition="tt:5841"
+                      round-number="11"/>
+      <team id="et12408">
+         <team-metadata alignment="home" key="tt:12408">
+            <name>Örebro</name>
+         </team-metadata>
+         <team-stats score="2" score-opposing="1" event-standing-points="3"/>
+      </team>
+      <team id="et12753">
+         <team-metadata alignment="away" key="tt:12753">
+            <name>Sirius</name>
+         </team-metadata>
+         <team-stats score="1" score-opposing="2" event-standing-points="0"/>
+      </team>
+   </sports-event>
+   <sports-event>
+      <event-metadata key="tt:FF3491031"
+                      event-status="speventstatus:post-event"
+                      event-outcome-type="speventoutcometype:regular"
+                      start-date-time="2017-05-29"
+                      competition="tt:5841"
+                      round-number="11"/>
+      <team id="et12414">
+         <team-metadata alignment="home" key="tt:12414">
+            <name>AIK</name>
+         </team-metadata>
+         <team-stats score="0" score-opposing="1" event-standing-points="0"/>
+      </team>
+      <team id="et12403">
+         <team-metadata alignment="away" key="tt:12403">
+            <name>Malmö FF</name>
+         </team-metadata>
+         <team-stats score="1" score-opposing="0" event-standing-points="3"/>
+      </team>
+   </sports-event>
+   <sports-event>
+      <event-metadata key="tt:FF3491029"
+                      event-status="speventstatus:post-event"
+                      event-outcome-type="speventoutcometype:regular"
+                      start-date-time="2017-05-29"
+                      competition="tt:5841"
+                      round-number="11"/>
+      <team id="et12680">
+         <team-metadata alignment="home" key="tt:12680">
+            <name>Häcken</name>
+         </team-metadata>
+         <team-stats score="0" score-opposing="1" event-standing-points="0"/>
+      </team>
+      <team id="et12701">
+         <team-metadata alignment="away" key="tt:12701">
+            <name>Östersunds FK</name>
+         </team-metadata>
+         <team-stats score="1" score-opposing="0" event-standing-points="3"/>
+      </team>
+   </sports-event>
+   <standing>
+      <standing-metadata competition="tt:5841"/>
+      <team>
+         <team-metadata key="tt:12403">
+            <name>Malmö FF</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:5841"
+                            events-played="11"
+                            wins="7"
+                            ties="3"
+                            losses="1"
+                            points-scored-for="18"
+                            points-scored-against="9"
+                            standing-points="24"/>
+            <award class="line_below"/>
+            <rank value="1"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:12413">
+            <name>IFK Norrköping</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:5841"
+                            events-played="11"
+                            wins="7"
+                            ties="2"
+                            losses="2"
+                            points-scored-for="19"
+                            points-scored-against="12"
+                            standing-points="23"/>
+            <award class="line_below"/>
+            <rank value="2"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:12407">
+            <name>Djurgården</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:5841"
+                            events-played="11"
+                            wins="5"
+                            ties="3"
+                            losses="3"
+                            points-scored-for="19"
+                            points-scored-against="11"
+                            standing-points="18"/>
+            <award class="line_below"/>
+            <rank value="3"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:12701">
+            <name>Östersunds FK</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:5841"
+                            events-played="11"
+                            wins="5"
+                            ties="3"
+                            losses="3"
+                            points-scored-for="16"
+                            points-scored-against="13"
+                            standing-points="18"/>
+            <rank value="4"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:12680">
+            <name>Häcken</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:5841"
+                            events-played="11"
+                            wins="4"
+                            ties="5"
+                            losses="2"
+                            points-scored-for="12"
+                            points-scored-against="7"
+                            standing-points="17"/>
+            <rank value="5"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:12414">
+            <name>AIK</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:5841"
+                            events-played="10"
+                            wins="5"
+                            ties="2"
+                            losses="3"
+                            points-scored-for="8"
+                            points-scored-against="6"
+                            standing-points="17"/>
+            <rank value="6"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:12753">
+            <name>Sirius</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:5841"
+                            events-played="11"
+                            wins="4"
+                            ties="4"
+                            losses="3"
+                            points-scored-for="16"
+                            points-scored-against="10"
+                            standing-points="16"/>
+            <rank value="7"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:12409">
+            <name>Hammarby</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:5841"
+                            events-played="11"
+                            wins="3"
+                            ties="6"
+                            losses="2"
+                            points-scored-for="16"
+                            points-scored-against="12"
+                            standing-points="15"/>
+            <rank value="8"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:12406">
+            <name>Elfsborg</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:5841"
+                            events-played="11"
+                            wins="4"
+                            ties="3"
+                            losses="4"
+                            points-scored-for="22"
+                            points-scored-against="19"
+                            standing-points="15"/>
+            <rank value="9"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:12401">
+            <name>IFK Göteborg</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:5841"
+                            events-played="10"
+                            wins="3"
+                            ties="5"
+                            losses="2"
+                            points-scored-for="14"
+                            points-scored-against="10"
+                            standing-points="14"/>
+            <rank value="10"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:12729">
+            <name>Jönköpings S</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:5841"
+                            events-played="11"
+                            wins="3"
+                            ties="5"
+                            losses="3"
+                            points-scored-for="13"
+                            points-scored-against="16"
+                            standing-points="14"/>
+            <rank value="11"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:12408">
+            <name>Örebro</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:5841"
+                            events-played="11"
+                            wins="3"
+                            ties="3"
+                            losses="5"
+                            points-scored-for="9"
+                            points-scored-against="17"
+                            standing-points="12"/>
+            <rank value="12"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:12404">
+            <name>Gif Sundsvall</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:5841"
+                            events-played="11"
+                            wins="2"
+                            ties="5"
+                            losses="4"
+                            points-scored-for="7"
+                            points-scored-against="13"
+                            standing-points="11"/>
+            <rank value="13"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:12402">
+            <name>Kalmar FF</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:5841"
+                            events-played="11"
+                            wins="2"
+                            ties="2"
+                            losses="7"
+                            points-scored-for="9"
+                            points-scored-against="20"
+                            standing-points="8"/>
+            <award class="line_above"/>
+            <rank value="14"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:12412">
+            <name>Halmstad</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:5841"
+                            events-played="11"
+                            wins="1"
+                            ties="3"
+                            losses="7"
+                            points-scored-for="7"
+                            points-scored-against="16"
+                            standing-points="6"/>
+            <award class="line_above"/>
+            <rank value="15"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:18803">
+            <name>AFC Eskilstuna</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:5841"
+                            events-played="11"
+                            wins="0"
+                            ties="4"
+                            losses="7"
+                            points-scored-for="8"
+                            points-scored-against="22"
+                            standing-points="4"/>
+            <rank value="16"/>
+         </team-stats>
+      </team>
+   </standing>
+   <schedule>
+      <schedule-metadata competition="tt:5841"/>
+      <sports-event>
+         <event-metadata start-date-time="2017-06-01T19:00:00"
+                         event-status="speventstatus:pre-event"
+                         competition="tt:5841"/>
+         <team>
+            <team-metadata alignment="home" key="tt:12413">
+               <name>IFK Norrköping</name>
+            </team-metadata>
+         </team>
+         <team>
+            <team-metadata alignment="away" key="tt:12414">
+               <name>AIK</name>
+            </team-metadata>
+         </team>
+      </sports-event>
+      <sports-event>
+         <event-metadata start-date-time="2017-06-02T19:00:00"
+                         event-status="speventstatus:pre-event"
+                         competition="tt:5841"/>
+         <team>
+            <team-metadata alignment="home" key="tt:12406">
+               <name>Elfsborg</name>
+            </team-metadata>
+         </team>
+         <team>
+            <team-metadata alignment="away" key="tt:12680">
+               <name>Häcken</name>
+            </team-metadata>
+         </team>
+      </sports-event>
+      <sports-event>
+         <event-metadata start-date-time="2017-06-03T16:00:00"
+                         event-status="speventstatus:pre-event"
+                         competition="tt:5841"/>
+         <team>
+            <team-metadata alignment="home" key="tt:12402">
+               <name>Kalmar FF</name>
+            </team-metadata>
+         </team>
+         <team>
+            <team-metadata alignment="away" key="tt:12408">
+               <name>Örebro</name>
+            </team-metadata>
+         </team>
+      </sports-event>
+      <sports-event>
+         <event-metadata start-date-time="2017-06-03T16:00:00"
+                         event-status="speventstatus:pre-event"
+                         competition="tt:5841"/>
+         <team>
+            <team-metadata alignment="home" key="tt:12701">
+               <name>Östersunds FK</name>
+            </team-metadata>
+         </team>
+         <team>
+            <team-metadata alignment="away" key="tt:12404">
+               <name>Gif Sundsvall</name>
+            </team-metadata>
+         </team>
+      </sports-event>
+      <sports-event>
+         <event-metadata start-date-time="2017-06-03T18:00:00"
+                         event-status="speventstatus:pre-event"
+                         competition="tt:5841"/>
+         <team>
+            <team-metadata alignment="home" key="tt:12729">
+               <name>Jönköpings S</name>
+            </team-metadata>
+         </team>
+         <team>
+            <team-metadata alignment="away" key="tt:12403">
+               <name>Malmö FF</name>
+            </team-metadata>
+         </team>
+      </sports-event>
+      <sports-event>
+         <event-metadata start-date-time="2017-06-04T15:00:00"
+                         event-status="speventstatus:pre-event"
+                         competition="tt:5841"/>
+         <team>
+            <team-metadata alignment="home" key="tt:18803">
+               <name>AFC Eskilstuna</name>
+            </team-metadata>
+         </team>
+         <team>
+            <team-metadata alignment="away" key="tt:12414">
+               <name>AIK</name>
+            </team-metadata>
+         </team>
+      </sports-event>
+      <sports-event>
+         <event-metadata start-date-time="2017-06-04T15:00:00"
+                         event-status="speventstatus:pre-event"
+                         competition="tt:5841"/>
+         <team>
+            <team-metadata alignment="home" key="tt:12409">
+               <name>Hammarby</name>
+            </team-metadata>
+         </team>
+         <team>
+            <team-metadata alignment="away" key="tt:12407">
+               <name>Djurgården</name>
+            </team-metadata>
+         </team>
+      </sports-event>
+      <sports-event>
+         <event-metadata start-date-time="2017-06-04T17:30:00"
+                         event-status="speventstatus:pre-event"
+                         competition="tt:5841"/>
+         <team>
+            <team-metadata alignment="home" key="tt:12413">
+               <name>IFK Norrköping</name>
+            </team-metadata>
+         </team>
+         <team>
+            <team-metadata alignment="away" key="tt:12401">
+               <name>IFK Göteborg</name>
+            </team-metadata>
+         </team>
+      </sports-event>
+      <sports-event>
+         <event-metadata start-date-time="2017-06-04T17:30:00"
+                         event-status="speventstatus:pre-event"
+                         competition="tt:5841"/>
+         <team>
+            <team-metadata alignment="home" key="tt:12753">
+               <name>Sirius</name>
+            </team-metadata>
+         </team>
+         <team>
+            <team-metadata alignment="away" key="tt:12412">
+               <name>Halmstad</name>
+            </team-metadata>
+         </team>
+      </sports-event>
+   </schedule>
+</sports-content>

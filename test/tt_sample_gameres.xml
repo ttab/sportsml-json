@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sports-content xmlns="http://iptc.org/std/nar/2006-10-01/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ ../../../../GIT_IPTC/sportsml-3/3.0/specification/sportsml.xsd">
+   <sports-metadata competition="tt:8341" doc-id="20170526:TT:0001:0">
+      <sports-content-codes>
+         <sports-content-code code-type="spct:sport"
+                              code-key="medtop:20000965"
+                              code-name="Ishockey"/>
+         <sports-content-code code-type="spct:competition"
+                              code-key="tt:8341"
+                              code-name="Stanley Cup"/>
+         <sports-content-code code-type="spct:season" code-key="season:54" code-name="2016-2017"/>
+      </sports-content-codes>
+      <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_27.xml"/>
+      <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-Sports_1.xml"/>
+      <catalogRef href="http://tt.se/spec/catalog/catalog.tt-g2.1_0.xml"/>
+   </sports-metadata>
+   <sports-event>
+      <event-metadata key="tt:130C2C5BCA"
+                      event-status="speventstatus:post-event"
+                      event-outcome-type="speventoutcometype:regular"
+                      start-date-time="2017-05-26"
+                      competition="tt:8341"
+                      round-number=""
+                      event-status-note="semifinal 7 i bäst av 7">
+         <site>
+            <site-metadata/>
+            <site-stats attendance="18 604"/>
+         </site>
+      </event-metadata>
+      <team id="et14834">
+         <team-metadata alignment="home" key="tt:14834">
+            <name>Pittsburgh</name>
+         </team-metadata>
+         <team-stats score="3" score-opposing="2" event-standing-points="1">
+            <sub-score period-value="1" score="0"/>
+            <sub-score period-value="2" score="1"/>
+            <sub-score period-value="3" score="1"/>
+            <sub-score period-value="4" score="0"/>
+            <sub-score period-value="5" score="1"/>
+         </team-stats>
+      </team>
+      <team id="et14824">
+         <team-metadata alignment="away" key="tt:14824">
+            <name>Ottawa</name>
+         </team-metadata>
+         <team-stats score="2" score-opposing="3" event-standing-points="1">
+            <sub-score period-value="1" score="0"/>
+            <sub-score period-value="2" score="1"/>
+            <sub-score period-value="3" score="1"/>
+            <sub-score period-value="4" score="0"/>
+            <sub-score period-value="5" score="0"/>
+         </team-stats>
+      </team>
+      <highlight>
+         <p>Pittsburgh: Justin Schultz 2, Chris Kunitz. Målvakt: Matt Murray 93,1 procent. Ottawa: Mark Stone (Erik Karlsson), Ryan Dzingel (Karlsson). Målvakt: Craig Anderson 92,9 procent.</p>
+         <p>Publik: 18 604.</p>
+         <p>Pittsburgh vidare till final.</p>
+      </highlight>
+   </sports-event>
+</sports-content>

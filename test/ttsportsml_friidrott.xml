@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sports-content xmlns="http://iptc.org/std/nar/2006-10-01/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ ../../../../GIT_IPTC/sportsml-3/3.0/specification/sportsml.xsd">
+   <sports-metadata doc-id="20170528:TT:0009:0">
+      <sports-content-codes>
+         <sports-content-code code-type="spct:sport"
+                              code-key="medtop:20000827"
+                              code-name="friidrott"/>
+         <sports-content-code code-type="spct:competition"
+                              code-name="Diamond League, deltävl 3 av 14"/>
+      </sports-content-codes>
+      <sports-property formal-name="location" value="EUGENE, Oregon"/>
+      <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_27.xml"/>
+      <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-Sports_1.xml"/>
+      <catalogRef href="http://tt.se/spec/catalog/catalog.tt-g2.1_0.xml"/>
+   </sports-metadata>
+   
+   <sports-event>
+      <event-metadata distance="110">
+         <sports-content-codes>
+            <sports-content-code code-type="spct:sport" code-key="medtop:20000834" code-name="110 m häck"/>
+            <sports-content-code code-type="subj:qual">
+               <sports-content-qualifier gender="male" participant-count="spparticipantcount:individual"/>
+            </sports-content-code>
+         </sports-content-codes>
+         <name>herrar, 110 m häck</name>
+      </event-metadata>
+      <player>
+         <player-metadata nationality="Jamaica">
+            <name>Omar McLeod</name>
+         </player-metadata>
+         <player-stats score="13,01">
+            <rank value="1"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="Jamaica">
+            <name>Ronald Levy</name>
+         </player-metadata>
+         <player-stats score="13,10">
+            <rank value="2"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="USA">
+            <name>Devon Allen</name>
+         </player-metadata>
+         <player-stats score="13,11">
+            <rank value="3"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="USA">
+            <name>Aries Merritt</name>
+         </player-metadata>
+         <player-stats score="13,13">
+            <rank value="4"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="Storbritannien">
+            <name>Andrew Pozzi</name>
+         </player-metadata>
+         <player-stats score="13,19">
+            <rank value="5"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="USA">
+            <name>Alec Harris</name>
+         </player-metadata>
+         <player-stats score="13,30">
+            <rank value="6"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="USA">
+            <name>David Oliver</name>
+         </player-metadata>
+         <player-stats score="13,40">
+            <rank value="7"/>
+         </player-stats>
+      </player>
+      <player>
+         <player-metadata nationality="Frankrike">
+            <name>Dimitri Bascou</name>
+         </player-metadata>
+         <player-stats score="13,55">
+            <rank value="8"/>
+         </player-stats>
+      </player>
+   </sports-event>
+   <sports-event>
+      <event-metadata>
+         <sports-content-codes>
+            <sports-content-code code-type="spct:sport" code-key="medtop:20000843" code-name="Kula"/>
+            <sports-content-code code-type="subj:qual">
+               <sports-content-qualifier gender="male" participant-count="spparticipantcount:individual"/>
+            </sports-content-code>
+         </sports-content-codes>
+         <name>Kula</name>
+      </event-metadata>
+      <player>
+         <player-metadata nationality="USA">
+            <name>Ryan Crouser</name>
+         </player-metadata>
+         <player-stats score="22,43">
+            <rank value="1"/>
+         </player-stats>
+      </player>
+   </sports-event>
+   <sports-event>
+      <event-metadata distance="1500">
+         <sports-content-codes>
+            <sports-content-code code-type="subj:qual">
+               <sports-content-qualifier gender="female" participant-count="spparticipantcount:individual"/>
+            </sports-content-code>
+         </sports-content-codes>
+         <name>Damer, 1 500 m</name>
+      </event-metadata>
+      <player>
+         <player-metadata nationality="Kenya">
+            <name>Faith Kipyegon</name>
+         </player-metadata>
+         <player-stats score="3.59,67">
+            <rank value="1"/>
+         </player-stats>
+      </player>
+   </sports-event>
+</sports-content>

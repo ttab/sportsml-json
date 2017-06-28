@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sports-content xmlns="http://iptc.org/std/nar/2006-10-01/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ ../../../../GIT_IPTC/sportsml-3/3.0/specification/sportsml.xsd">
+   <sports-metadata competition="tt:5841" doc-id="20170528:TT:0028:0">
+      <sports-content-codes>
+         <sports-content-code code-type="spct:sport"
+                              code-key="medtop:20001065"
+                              code-name="Fotboll"/>
+         <sports-content-code code-type="spct:competition"
+                              code-key="tt:5841"
+                              code-name="Allsvenskan"/>
+         <sports-content-code code-type="spct:season" code-key="season:55" code-name="2017"/>
+      </sports-content-codes>
+      <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_27.xml"/>
+      <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-Sports_1.xml"/>
+      <catalogRef href="http://tt.se/spec/catalog/catalog.tt-g2.1_0.xml"/>
+   </sports-metadata>
+   
+   <sports-event>
+      <event-metadata key="tt:FF3491033"
+                      event-status="speventstatus:post-event"
+                      event-outcome-type="speventoutcometype:regular"
+                      start-date-time="2017-05-28"
+                      competition="tt:5841"
+                      round-number="11">
+         <site>
+            <site-metadata/>
+            <site-stats attendance="20 386."/>
+         </site>
+      </event-metadata>
+      <team id="et12409">
+         <team-metadata alignment="home" key="tt:12409">
+            <name>Hammarby</name>
+         </team-metadata>
+         <team-stats score="2" score-opposing="2" event-standing-points="1">
+            <sub-score period-value="1" score="1"/>
+            <team-stats-soccer line-formation="4-4-2"/>
+         </team-stats>
+         <player id="ep12409-1">
+            <player-metadata>
+               <name>Ögmundur Kristinsson</name>
+            </player-metadata>
+         </player>
+         <player id="ep12409-2">
+            <player-metadata>
+               <name>Birkir Mar Sævarsson</name>
+            </player-metadata>
+         </player>
+         <player id="ep12409-3">
+            <player-metadata>
+               <name>Joseph Aidoo</name>
+            </player-metadata>
+         </player>
+         <player id="ep12409-4">
+            <player-metadata>
+               <name>Richard Magyar</name>
+            </player-metadata>
+         </player>
+         <player id="ep12409-5">
+            <player-metadata>
+               <name>Mats Solheim</name>
+            </player-metadata>
+         </player>
+         <player id="ep12409-6">
+            <player-metadata>
+               <name>Arnor Smarason</name>
+            </player-metadata>
+         </player>
+         <player id="ep12409-7">
+            <player-metadata>
+               <name>Kennedy Bakircioglu</name>
+            </player-metadata>
+            <player-stats event-time-exited="28"/>
+         </player>
+         <player id="ep12409-7-b">
+            <player-metadata>
+               <name>Marcus Degerlund</name>
+            </player-metadata>
+            <player-stats event-time-entered="28"/>
+         </player>
+         <player id="ep12409-8">
+            <player-metadata>
+               <name>Serge-Junior Martinsson Ngouali</name>
+            </player-metadata>
+         </player>
+         <player id="ep12409-9">
+            <player-metadata>
+               <name>Fredrik Torsteinbø</name>
+            </player-metadata>
+            <player-stats event-time-exited="78"/>
+         </player>
+         <player id="ep12409-9-b">
+            <player-metadata>
+               <name>Leo Bengtsson</name>
+            </player-metadata>
+            <player-stats event-time-entered="78"/>
+         </player>
+         <player id="ep12409-10">
+            <player-metadata>
+               <name>Pa Dibba</name>
+            </player-metadata>
+            <player-stats event-time-exited="62"/>
+         </player>
+         <player id="ep12409-10-b">
+            <player-metadata>
+               <name>Romulo</name>
+            </player-metadata>
+            <player-stats event-time-entered="62"/>
+         </player>
+         <player id="ep12409-11">
+            <player-metadata>
+               <name>Bjørn Paulsen</name>
+            </player-metadata>
+         </player>
+      </team>
+      <team id="et12729">
+         <team-metadata alignment="away" key="tt:12729">
+            <name>Jönköpings S</name>
+         </team-metadata>
+         <team-stats score="2" score-opposing="2" event-standing-points="1">
+            <sub-score period-value="1" score="0"/>
+            <team-stats-soccer line-formation="4-2-3-1"/>
+         </team-stats>
+         <player id="ep12729-1">
+            <player-metadata>
+               <name>Anton Cajtoft</name>
+            </player-metadata>
+         </player>
+         <player id="ep12729-2">
+            <player-metadata>
+               <name>Stefan Karlsson</name>
+            </player-metadata>
+         </player>
+         <player id="ep12729-3">
+            <player-metadata>
+               <name>André Calisir</name>
+            </player-metadata>
+         </player>
+         <player id="ep12729-4">
+            <player-metadata>
+               <name>Joakim Karlsson</name>
+            </player-metadata>
+         </player>
+         <player id="ep12729-5">
+            <player-metadata>
+               <name>Tom Siwe</name>
+            </player-metadata>
+            <player-stats event-time-exited="59"/>
+         </player>
+         <player id="ep12729-5-b">
+            <player-metadata>
+               <name>Eric Ayuk</name>
+            </player-metadata>
+            <player-stats event-time-entered="59"/>
+         </player>
+         <player id="ep12729-6">
+            <player-metadata>
+               <name>Fredric Fendrich</name>
+            </player-metadata>
+            <player-stats event-time-exited="62"/>
+         </player>
+         <player id="ep12729-6-b">
+            <player-metadata>
+               <name>Christos Gravius</name>
+            </player-metadata>
+            <player-stats event-time-entered="62"/>
+         </player>
+         <player id="ep12729-7">
+            <player-metadata>
+               <name>Robert Gojani</name>
+            </player-metadata>
+         </player>
+         <player id="ep12729-8">
+            <player-metadata>
+               <name>Jesper Svensson</name>
+            </player-metadata>
+            <player-stats event-time-exited="59"/>
+         </player>
+         <player id="ep12729-8-b">
+            <player-metadata>
+               <name>Jonathan Tamimi</name>
+            </player-metadata>
+            <player-stats event-time-entered="59"/>
+         </player>
+         <player id="ep12729-9">
+            <player-metadata>
+               <name>Daryl Smylie</name>
+            </player-metadata>
+         </player>
+         <player id="ep12729-10">
+            <player-metadata>
+               <name>Tommy Thelin</name>
+            </player-metadata>
+         </player>
+         <player id="ep12729-11">
+            <player-metadata>
+               <name>Dzenis Kozica</name>
+            </player-metadata>
+         </player>
+      </team>
+      <officials>
+         <official>
+            <official-metadata>
+               <name>Kristoffer Karlsson</name>
+               <home-location>
+                  <name>Höganäs</name>
+               </home-location>
+            </official-metadata>
+         </official>
+      </officials>
+      <actions>
+         <action class="spactionclass:score"
+                 team-idref="et12409"
+                 minutes-elapsed="18"
+                 score-team="1"
+                 score-team-opposing="0"
+                 comment="1-0 Pa Dibba (18)">
+            <participant idref="ep12409-10"/>
+         </action>
+         <action class="spactionclass:score"
+                 team-idref="et12729"
+                 minutes-elapsed="74"
+                 score-team="1"
+                 score-team-opposing="1"
+                 comment=" 1-1 Dzenis Kozica (74)">
+            <participant idref="ep12729-11"/>
+         </action>
+         <action class="spactionclass:score"
+                 team-idref="et12729"
+                 minutes-elapsed="77"
+                 score-team="2"
+                 score-team-opposing="1"
+                 comment=" 1-2 Eric Ayuk (77)">
+            <participant idref="ep12729-5-b"/>
+         </action>
+         <action class="spactionclass:score"
+                 team-idref="et12409"
+                 minutes-elapsed="90"
+                 score-team="2"
+                 score-team-opposing="2"
+                 comment=" 2-2 Mats Solheim (90).">
+            <participant idref="ep12409-5"/>
+         </action>
+         <action class="spactionclass:penalty"
+                 team-idref="et12409"
+                 penalty-type="vendinfract:Foul"
+                 penalty-level="spsocpenaltylevel:yellow-card"
+                 comment="Arnor Smarason">
+            <participant idref="ep12409-6"/>
+         </action>
+         <action class="spactionclass:penalty"
+                 team-idref="et12729"
+                 penalty-type="vendinfract:Foul"
+                 penalty-level="spsocpenaltylevel:yellow-card"
+                 comment="Daryl Smylie">
+            <participant idref="ep12729-9"/>
+         </action>
+      </actions>
+      <highlight>
+         <p>1-0 Pa Dibba (18), 1-1 Dzenis Kozica (74), 1-2 Eric Ayuk (77), 2-2 Mats Solheim (90).</p>
+         <p>Utv, Hammarby: Richard Magyar (26, två varningar).</p>
+         <p>Varningar, Hammarby: Arnor Smarason. Jönköpings S: Daryl Smylie.</p>
+         <p>Domare: Kristoffer Karlsson, Höganäs.</p>
+         <p>Publik: 20 386.</p>
+         <p>Hammarby (4-4-2): Ögmundur Kristinsson - Birkir Mar Sævarsson, Joseph Aidoo, Richard Magyar, Mats Solheim - Arnor Smarason, Kennedy Bakircioglu (Marcus Degerlund 28), Serge-Junior Martinsson Ngouali, Fredrik Torsteinbø (Leo Bengtsson 78) - Pa Dibba (Romulo 62), Bjørn Paulsen.</p>
+         <p>Jönköpings S (4-2-3-1): Anton Cajtoft - Stefan Karlsson, André Calisir, Joakim Karlsson, Tom Siwe (Eric Ayuk 59) - Fredric Fendrich (Christos Gravius 62), Robert Gojani - Jesper Svensson (Jonathan Tamimi 59), Daryl Smylie, Tommy Thelin - Dzenis Kozica.</p>
+      </highlight>
+   </sports-event>
+</sports-content>

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sports-content xmlns="http://iptc.org/std/nar/2006-10-01/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ ../../../../GIT_IPTC/sportsml-3/3.0/specification/sportsml.xsd">
+   <sports-metadata competition="tt:16302" doc-id="20170530:TT:0039:0">
+      <sports-content-codes>
+         <sports-content-code code-type="spct:sport"
+                              code-key="medtop:20001065"
+                              code-name="Fotboll"/>
+         <sports-content-code code-type="spct:competition"
+                              code-key="tt:16302"
+                              code-name="Division 1 Norrland, damer"/>
+         <sports-content-code code-type="spct:season" code-key="season:55" code-name="2017"/>
+      </sports-content-codes>
+      <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_27.xml"/>
+      <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-Sports_1.xml"/>
+      <catalogRef href="http://tt.se/spec/catalog/catalog.tt-g2.1_0.xml"/>
+   </sports-metadata>
+   
+   <standing>
+      <standing-metadata competition="tt:16302"/>
+      <team>
+         <team-metadata key="tt:18667">
+            <name>Notviken</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:16302"
+                            events-played="7"
+                            wins="6"
+                            ties="1"
+                            losses="0"
+                            points-scored-for="19"
+                            points-scored-against="4"
+                            standing-points="19"/>
+            <outcome-totals alignment-scope="events-home"
+                            competition="tt:16302"
+                            wins="3"
+                            ties="1"
+                            losses="0"
+                            points-scored-for="8"
+                            points-scored-against="2"/>
+            <outcome-totals alignment-scope="events-away"
+                            competition="tt:16302"
+                            wins="3"
+                            ties="0"
+                            losses="0"
+                            points-scored-for="11"
+                            points-scored-against="2"/>
+            <rank value="1"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:33603">
+            <name>Thorengruppen</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:16302"
+                            events-played="7"
+                            wins="6"
+                            ties="0"
+                            losses="1"
+                            points-scored-for="22"
+                            points-scored-against="8"
+                            standing-points="18"/>
+            <outcome-totals alignment-scope="events-home"
+                            competition="tt:16302"
+                            wins="3"
+                            ties="0"
+                            losses="1"
+                            points-scored-for="12"
+                            points-scored-against="6"/>
+            <outcome-totals alignment-scope="events-away"
+                            competition="tt:16302"
+                            wins="3"
+                            ties="0"
+                            losses="0"
+                            points-scored-for="10"
+                            points-scored-against="2"/>
+            <rank value="2"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:12952">
+            <name>Morön</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:16302"
+                            events-played="7"
+                            wins="5"
+                            ties="1"
+                            losses="1"
+                            points-scored-for="24"
+                            points-scored-against="6"
+                            standing-points="16"/>
+            <outcome-totals alignment-scope="events-home"
+                            competition="tt:16302"
+                            wins="2"
+                            ties="0"
+                            losses="1"
+                            points-scored-for="11"
+                            points-scored-against="3"/>
+            <outcome-totals alignment-scope="events-away"
+                            competition="tt:16302"
+                            wins="3"
+                            ties="1"
+                            losses="0"
+                            points-scored-for="13"
+                            points-scored-against="3"/>
+            <rank value="3"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:12914">
+            <name>Sunnanå</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:16302"
+                            events-played="7"
+                            wins="4"
+                            ties="1"
+                            losses="2"
+                            points-scored-for="22"
+                            points-scored-against="12"
+                            standing-points="13"/>
+            <outcome-totals alignment-scope="events-home"
+                            competition="tt:16302"
+                            wins="3"
+                            ties="1"
+                            losses="0"
+                            points-scored-for="17"
+                            points-scored-against="6"/>
+            <outcome-totals alignment-scope="events-away"
+                            competition="tt:16302"
+                            wins="1"
+                            ties="0"
+                            losses="2"
+                            points-scored-for="5"
+                            points-scored-against="6"/>
+            <rank value="4"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:12947">
+            <name>Umedalen</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:16302"
+                            events-played="7"
+                            wins="4"
+                            ties="1"
+                            losses="2"
+                            points-scored-for="12"
+                            points-scored-against="9"
+                            standing-points="13"/>
+            <outcome-totals alignment-scope="events-home"
+                            competition="tt:16302"
+                            wins="2"
+                            ties="1"
+                            losses="0"
+                            points-scored-for="8"
+                            points-scored-against="4"/>
+            <outcome-totals alignment-scope="events-away"
+                            competition="tt:16302"
+                            wins="2"
+                            ties="0"
+                            losses="2"
+                            points-scored-for="4"
+                            points-scored-against="5"/>
+            <rank value="5"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:15425">
+            <name>Mariehem</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:16302"
+                            events-played="7"
+                            wins="3"
+                            ties="1"
+                            losses="3"
+                            points-scored-for="7"
+                            points-scored-against="5"
+                            standing-points="10"/>
+            <outcome-totals alignment-scope="events-home"
+                            competition="tt:16302"
+                            wins="0"
+                            ties="1"
+                            losses="3"
+                            points-scored-for="2"
+                            points-scored-against="5"/>
+            <outcome-totals alignment-scope="events-away"
+                            competition="tt:16302"
+                            wins="3"
+                            ties="0"
+                            losses="0"
+                            points-scored-for="5"
+                            points-scored-against="0"/>
+            <rank value="6"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:18656">
+            <name>Timrå</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:16302"
+                            events-played="7"
+                            wins="2"
+                            ties="1"
+                            losses="4"
+                            points-scored-for="10"
+                            points-scored-against="17"
+                            standing-points="7"/>
+            <outcome-totals alignment-scope="events-home"
+                            competition="tt:16302"
+                            wins="1"
+                            ties="0"
+                            losses="2"
+                            points-scored-for="3"
+                            points-scored-against="9"/>
+            <outcome-totals alignment-scope="events-away"
+                            competition="tt:16302"
+                            wins="1"
+                            ties="1"
+                            losses="2"
+                            points-scored-for="7"
+                            points-scored-against="8"/>
+            <rank value="7"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:12929">
+            <name>Själevad</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:16302"
+                            events-played="7"
+                            wins="2"
+                            ties="0"
+                            losses="5"
+                            points-scored-for="7"
+                            points-scored-against="11"
+                            standing-points="6"/>
+            <outcome-totals alignment-scope="events-home"
+                            competition="tt:16302"
+                            wins="1"
+                            ties="0"
+                            losses="2"
+                            points-scored-for="5"
+                            points-scored-against="6"/>
+            <outcome-totals alignment-scope="events-away"
+                            competition="tt:16302"
+                            wins="1"
+                            ties="0"
+                            losses="3"
+                            points-scored-for="2"
+                            points-scored-against="5"/>
+            <rank value="8"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:12917">
+            <name>Alviks IK</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:16302"
+                            events-played="7"
+                            wins="2"
+                            ties="0"
+                            losses="5"
+                            points-scored-for="9"
+                            points-scored-against="22"
+                            standing-points="6"/>
+            <outcome-totals alignment-scope="events-home"
+                            competition="tt:16302"
+                            wins="2"
+                            ties="0"
+                            losses="2"
+                            points-scored-for="5"
+                            points-scored-against="10"/>
+            <outcome-totals alignment-scope="events-away"
+                            competition="tt:16302"
+                            wins="0"
+                            ties="0"
+                            losses="3"
+                            points-scored-for="4"
+                            points-scored-against="12"/>
+            <rank value="9"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:33602">
+            <name>Storfors</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:16302"
+                            events-played="7"
+                            wins="2"
+                            ties="0"
+                            losses="5"
+                            points-scored-for="6"
+                            points-scored-against="29"
+                            standing-points="6"/>
+            <outcome-totals alignment-scope="events-home"
+                            competition="tt:16302"
+                            wins="1"
+                            ties="0"
+                            losses="2"
+                            points-scored-for="1"
+                            points-scored-against="9"/>
+            <outcome-totals alignment-scope="events-away"
+                            competition="tt:16302"
+                            wins="1"
+                            ties="0"
+                            losses="3"
+                            points-scored-for="5"
+                            points-scored-against="20"/>
+            <rank value="10"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:35504">
+            <name>IFK Östersund</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:16302"
+                            events-played="7"
+                            wins="1"
+                            ties="2"
+                            losses="4"
+                            points-scored-for="9"
+                            points-scored-against="18"
+                            standing-points="5"/>
+            <outcome-totals alignment-scope="events-home"
+                            competition="tt:16302"
+                            wins="1"
+                            ties="0"
+                            losses="2"
+                            points-scored-for="6"
+                            points-scored-against="9"/>
+            <outcome-totals alignment-scope="events-away"
+                            competition="tt:16302"
+                            wins="0"
+                            ties="2"
+                            losses="2"
+                            points-scored-for="3"
+                            points-scored-against="9"/>
+            <rank value="11"/>
+         </team-stats>
+      </team>
+      <team>
+         <team-metadata key="tt:26641">
+            <name>Luleå DFC</name>
+         </team-metadata>
+         <team-stats>
+            <outcome-totals alignment-scope="events-all"
+                            competition="tt:16302"
+                            events-played="7"
+                            wins="1"
+                            ties="0"
+                            losses="6"
+                            points-scored-for="9"
+                            points-scored-against="15"
+                            standing-points="3"/>
+            <outcome-totals alignment-scope="events-home"
+                            competition="tt:16302"
+                            wins="1"
+                            ties="0"
+                            losses="3"
+                            points-scored-for="4"
+                            points-scored-against="5"/>
+            <outcome-totals alignment-scope="events-away"
+                            competition="tt:16302"
+                            wins="0"
+                            ties="0"
+                            losses="3"
+                            points-scored-for="5"
+                            points-scored-against="10"/>
+            <rank value="12"/>
+         </team-stats>
+      </team>
+   </standing>
+</sports-content>
